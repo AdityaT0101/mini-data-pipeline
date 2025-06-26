@@ -1,0 +1,5 @@
+id,name,email,age,signup_date
+1,john doe,john@example.com,25,2021-06-12
+2,jane smith,,30,2020-09-10
+3,bob ross,bob@example.com,17,2019-12-01
+4,amy winehouse,amy@example.com,22,2023-01-15
